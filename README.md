@@ -18,6 +18,8 @@ Calculating the average or sum sentiment of the articles that contained each wor
 
 The red reperesents the distribution of negative sentiment articles, gray for neutral, and green for positive. The word in the green and red sections represents the most frequent sentiment significant positive or negative word for that year, respectively.
 
+* There is a gap for 1964 due to the field for print page numbers that year were completely missing.
+
 ![Sentiment Distribution Visual](https://github.com/thebrianmcmurray/nytsentiment/blob/master/plot.png)
 
 # Tools Used
